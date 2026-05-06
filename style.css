@@ -282,7 +282,7 @@ body {
 /* HIDE INITIALLY */
 .section,
 .about-section {
-  opacity: 0;
+  opacity: 1;
   transform: translateY(50px);
   transition: all 0.8s ease;
 }
@@ -751,3 +751,4 @@ h1, h2, h3, p {
 .projects-section .section-title {
   text-align: center !important;
 }
+
